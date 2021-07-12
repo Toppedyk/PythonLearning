@@ -36,6 +36,9 @@
 
 
 # NOTE GETTING USERS INPUT
-name = input('Input your name: ')
-age = input('Input your age: ')
-print('Your name is ' + name + ' and you are ' + age + ' years old')
+# name = input('Input your name: ')
+# age = int(input('Input your age: '))
+# print('Your name is ' + name + ' and you are', age , 'years old')
+
+sentence = input('Enter your sentence: ')
+print(sentence)
