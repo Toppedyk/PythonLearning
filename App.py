@@ -29,4 +29,7 @@ name ='Taylor'
 # print(number2)
 
 # print(abs(-5))
-print(max(4,1))
+# print(max(4,1))
+
+# from math import *
+# print(sqrt(100))
