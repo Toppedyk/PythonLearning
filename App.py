@@ -37,4 +37,5 @@
 
 # NOTE GETTING USERS INPUT
 name = input('Input your name: ')
-print(name)
+age = input('Input your age: ')
+print('Your name is ' + name + ' and you are ' + age + ' years old')
