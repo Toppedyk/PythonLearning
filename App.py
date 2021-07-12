@@ -10,5 +10,9 @@
 
 # print('Hi. \nHow are you?')
 name ='Taylor'
-print(name.upper())
-print(name.lower())
+# print(name.upper())
+# print(name.lower())
+# isupper() and islower() are for bools
+
+# length of string
+print(len(name))
