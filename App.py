@@ -24,6 +24,8 @@ name ='Taylor'
 # print(78+22)
 
 # print(20%6)
-number = 55
-number2 = str(number)
-print(number2)
+# number = 55
+# number2 = str(number)
+# print(number2)
+
+print(abs(-5))
