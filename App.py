@@ -17,5 +17,8 @@ name ='Taylor'
 # # length of string
 # print(len(name))
 
-print(name.index('a'))
-print(name.replace('T', 'B'))
+# print(name.index('a'))
+# print(name.replace('T', 'B'))
+
+# NUMBERS
+print(78+22)
