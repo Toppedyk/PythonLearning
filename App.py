@@ -1,2 +1,5 @@
-print('My name is Taylor, My age is', 26)
-print('I am learning python!')
+name="Taylor"
+
+print(name,'is a boy')
+print(name,'is 26')
+print(name,'is from Idaho')
