@@ -8,4 +8,6 @@
 # print(name+' is', age)
 # print(name+' is from Idaho')
 
-print('Hi. \nHow are you?')
+# print('Hi. \nHow are you?')
+name ='Taylor'
+print(name[0])
