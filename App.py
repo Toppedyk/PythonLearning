@@ -14,5 +14,8 @@ name ='Taylor'
 # print(name.lower())
 # isupper() and islower() are for bools
 
-# length of string
-print(len(name))
+# # length of string
+# print(len(name))
+
+print(name.index('a'))
+print(name.replace('T', 'B'))
