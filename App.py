@@ -9,7 +9,7 @@
 # print(name+' is from Idaho')
 
 # print('Hi. \nHow are you?')
-name ='Taylor'
+# name ='Taylor'
 # print(name.upper())
 # print(name.lower())
 # isupper() and islower() are for bools
@@ -20,7 +20,7 @@ name ='Taylor'
 # print(name.index('a'))
 # print(name.replace('T', 'B'))
 
-# NUMBERS
+#NOTE  NUMBERS
 # print(78+22)
 
 # print(20%6)
@@ -33,3 +33,8 @@ name ='Taylor'
 
 # from math import *
 # print(sqrt(100))
+
+
+# NOTE GETTING USERS INPUT
+name = input('Input your name: ')
+print(name)
