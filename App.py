@@ -21,4 +21,6 @@ name ='Taylor'
 # print(name.replace('T', 'B'))
 
 # NUMBERS
-print(78+22)
+# print(78+22)
+
+print(20%6)
