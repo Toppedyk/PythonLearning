@@ -52,3 +52,9 @@
 
 # countries = list(('Nigeria', 34, True))
 # print(countries)
+
+# NOTE List Methods
+list1=[1,2,3,4,5]
+list2=['banana', 'apples', 'mangos', 'oranges']
+list1.extend(list2)
+print(list1)
