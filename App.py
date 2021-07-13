@@ -60,5 +60,6 @@ list2=['banana', 'apples', 'mangos', 'oranges']
 # list1.extend(list2)
 # print(list1)
 # list2.append('cherry')
-list2.insert(1,'cherry')
+# list2.insert(1,'cherry')
+list2.remove('banana')
 print(list2)
