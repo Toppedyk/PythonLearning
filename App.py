@@ -54,7 +54,7 @@
 # print(countries)
 
 # NOTE List Methods
-list1=[1,2,3,4,5]
+list1=[5,2,3,6,9,4]
 list2=['banana', 'apples', 'mangos', 'oranges']
 
 # list1.extend(list2)
@@ -63,4 +63,6 @@ list2=['banana', 'apples', 'mangos', 'oranges']
 # list2.insert(1,'cherry')
 # list2.remove('banana')
 
-print(list2.count('mangos'))
+# print(list2.count('mangos'))
+list1.sort()
+print(list1)
