@@ -65,5 +65,6 @@ list2=['banana', 'apples', 'mangos', 'oranges']
 
 # print(list2.count('mangos'))
 # list1.sort()
-list2.reverse()
-print(list2)
+# list2.reverse()
+list3 = list2.copy()
+print(list3)
