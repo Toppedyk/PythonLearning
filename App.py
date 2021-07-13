@@ -68,5 +68,5 @@ list2=['banana', 'apples', 'mangos', 'oranges']
 # list2.reverse()
 # list3 = list2.copy()
 # print(list3)
-list2.pop()
+list2.pop(1)
 print(list2)
