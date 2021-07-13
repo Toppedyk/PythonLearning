@@ -48,4 +48,4 @@
 
 # NOTE lists in python
 countries = ['USA', 'united kingdom', 'Ghana', 'Nigeria']
-print(countries[0])
+print(countries[1:])
