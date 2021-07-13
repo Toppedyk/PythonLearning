@@ -47,3 +47,4 @@
 # print(sentence.replace(word1,word2))
 
 # NOTE lists in python
+countries = ['USA', 'united kingdom', 'Ghana', 'Nigeria']
