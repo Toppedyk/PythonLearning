@@ -40,8 +40,10 @@
 # age = int(input('Input your age: '))
 # print('Your name is ' + name + ' and you are', age , 'years old')
 
-sentence = input('Enter your sentence: ')
-print(sentence)
-word1= input('Enter the word to replace: ')
-word2 = input('Enter the word to replace it with: ')
-print(sentence.replace(word1,word2))
+# sentence = input('Enter your sentence: ')
+# print(sentence)
+# word1= input('Enter the word to replace: ')
+# word2 = input('Enter the word to replace it with: ')
+# print(sentence.replace(word1,word2))
+
+# NOTE lists in python
