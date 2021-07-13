@@ -47,5 +47,8 @@
 # print(sentence.replace(word1,word2))
 
 # NOTE lists in python
-countries = ['USA', 'united kingdom', 'Ghana', 'Nigeria']
-print(countries[1:3])
+# countries = ['USA', 'united kingdom', 'Ghana', 'Nigeria']
+# print(countries[1:3])
+
+countries = list(('Nigeria', 34, True))
+print(countries)
